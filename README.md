@@ -11,7 +11,7 @@
 
 ## 🚀 Melvin site!
 
-** Simple blazing fast page **
+**`Simple blazing fast page`**
 Built with Gatsby, hosted by GitHub Pages.
     
 ## 🧐 What's inside?
